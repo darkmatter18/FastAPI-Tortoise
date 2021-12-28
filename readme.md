@@ -1,5 +1,5 @@
-# Базовый шаблон FastAPI
-### Включает в себя
+# FasAPI Tortoise
+### Includes
 #### - FastAPI
 #### - TortoiseORM
 #### - Aerich
@@ -11,8 +11,8 @@
 #### - Docker-compose files
 #### - NGINX + certbot
 
-# Установка
-#### Скопировать template.config.py -> config.py и заполнить
-#### Прописать все app в config.applications (django style). Поиск моделей будет происходить по пути app.applications.APP_NAME.models
-#### Сгенерировать SECRET_KEY ( можно командой `openssl rand -hex 32`)
-#### Так-же можно сгенерить сертификаты скриптом из репы ( #TODO гайд )
+# Installation
+#### Copy template.config.py -> config.py and fill
+#### Register all app in config.applications (django style). The search for models will occur along the path app.applications.APP_NAME.models
+#### Generate SECRET_KEY (`openssl rand -hex 32`)
+#### You can also generate certificates with a script from a turnip (#TODO guide)
