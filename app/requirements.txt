@@ -42,7 +42,7 @@ hyperframe==5.2.0
 idna==2.10
 importlib-metadata==1.7.0
 inflection==0.5.1
-iso8601==0.1.12
+iso8601==0.1.16
 Jinja2==2.11.3
 kombu==4.6.11
 lxml==4.6.3
