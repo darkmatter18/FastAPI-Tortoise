@@ -1,6 +1,6 @@
 aerich==0.6.3
 aiohttp==3.8.1
-aiomysql==0.0.22
+aiomysql==0.1.1
 aiosqlite==0.15.0
 amqp==2.6.1
 anyio==1.4.0
