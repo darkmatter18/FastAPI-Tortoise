@@ -21,7 +21,7 @@ ciso8601==2.3.0
 click==7.1.2
 colorama==0.4.5
 cryptography==3.3.2
-cssselect==1.1.0
+cssselect==1.2.0
 cssutils==1.0.2
 databases==0.3.2
 dnspython==2.0.0
