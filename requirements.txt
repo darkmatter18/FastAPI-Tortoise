@@ -61,7 +61,7 @@ prometheus-client==0.16.0
 prompt-toolkit==3.0.38
 py==1.10.0
 pycparser==2.20
-pydantic==1.6.2
+pydantic==1.10.7
 PyJWT==1.7.1
 PyMySQL==0.10.1
 pyparsing==2.4.7
