@@ -33,7 +33,7 @@ future==0.18.3
 h11==0.14.0
 h2==3.2.0
 hpack==3.0.0
-hstspreload==2020.12.22
+hstspreload==2023.1.1
 httpcore==0.17.0
 httptools==0.5.0
 httpx==0.24.0
