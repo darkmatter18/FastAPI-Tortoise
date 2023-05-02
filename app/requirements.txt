@@ -53,7 +53,7 @@ more-itertools==9.1.0
 multidict==6.0.4
 packaging==23.1
 passlib==1.7.4
-pluggy==0.13.1
+pluggy==1.0.0
 premailer==3.10.0
 prometheus-client==0.16.0
 py==1.11.0
