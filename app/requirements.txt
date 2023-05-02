@@ -51,7 +51,7 @@ Mako==1.2.4
 MarkupSafe==2.1.2
 more-itertools==8.14.0
 multidict==4.7.6
-packaging==20.9
+packaging==23.1
 passlib==1.7.4
 pluggy==0.13.1
 premailer==3.10.0
