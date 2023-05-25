@@ -77,7 +77,7 @@ SQLAlchemy==2.0.13
 starlette==0.26.1
 tornado==6.3.1
 tortoise-orm==0.19.3
-typing-extensions==3.10.0.2
+typing-extensions==4.6.2
 urllib3
 uvicorn==0.22.0
 uvloop==0.17.0
