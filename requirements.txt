@@ -41,7 +41,7 @@ httpx-oauth==0.13.0
 humanize==4.6.0
 hyperframe==6.0.1
 idna==3.4
-importlib-metadata==6.6.0
+importlib-metadata==6.8.0
 inflection==0.5.1
 iniconfig==2.0.0
 iso8601==1.1.0
