@@ -92,4 +92,4 @@ wcwidth==0.2.6
 websockets==9.1
 XlsxWriter==3.1.2
 yarl==1.9.2
-zipp==3.15.0
+zipp==3.16.2
