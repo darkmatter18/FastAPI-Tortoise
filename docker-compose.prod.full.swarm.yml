@@ -261,7 +261,7 @@ services:
 
 
   db:
-    image: postgres:12
+    image: postgres:15
     networks:
       - webgateway
       - default
