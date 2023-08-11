@@ -5,7 +5,7 @@ aiosqlite
 amqp==5.1.1
 anyio
 async-generator==1.10
-async-timeout==4.0.2
+async-timeout==4.0.3
 asyncclick==8.1.3.4
 asyncpg==0.28.0
 atlastk==0.13.2
