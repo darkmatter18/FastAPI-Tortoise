@@ -13,7 +13,7 @@ attrs==23.1.0
 bcrypt==4.0.1
 billiard==4.1.0
 cachetools==5.3.1
-celery==5.3.1
+celery==5.3.3
 certifi==2023.7.22
 cffi
 chardet==5.2.0
