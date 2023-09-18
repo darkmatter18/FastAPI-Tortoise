@@ -33,7 +33,7 @@ h11==0.14.0
 h2==4.1.0
 hpack==4.0.0
 hstspreload
-httpcore==0.17.3
+httpcore==0.18.0
 httptools==0.6.0
 httpx==0.25.0
 httpx-oauth
