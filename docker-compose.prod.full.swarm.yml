@@ -227,7 +227,7 @@ services:
         order: stop-first
 
   rabbitmq:
-    image: rabbitmq:3.12.4-management
+    image: rabbitmq:3.12.6-management
     container_name: rabbitmq
     networks:
       - webgateway
