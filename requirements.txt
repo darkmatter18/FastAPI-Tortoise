@@ -86,7 +86,7 @@ tortoise-orm==0.20.0
 typing-extensions==4.8.0
 urllib3==2.0.7
 uvicorn==0.23.2
-uvloop==0.17.0
+uvloop==0.18.0
 vine==5.0.0
 wcwidth==0.2.8
 websockets==11.0.3
