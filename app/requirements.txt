@@ -21,7 +21,7 @@ ciso8601==2.3.0
 click==8.1.7
 cryptography
 cssselect==1.2.0
-cssutils==2.7.1
+cssutils==2.9.0
 databases==0.8.0
 dnspython
 email-validator==2.0.0.post2
