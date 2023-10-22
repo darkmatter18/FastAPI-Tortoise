@@ -77,7 +77,7 @@ services:
       - ./docker/redis/log:/docker/redis/log
 
   rabbitmq:
-    image: rabbitmq:3.12.6-management
+    image: rabbitmq:3.12.7-management
     container_name: rabbitmq
     env_file:
       - .prod.env
