@@ -24,7 +24,7 @@ cssselect==1.2.0
 cssutils==2.9.0
 databases==0.8.0
 dnspython
-email-validator==2.0.0.post2
+email-validator==2.1.0
 emails==0.6
 fastapi==0.104.0
 flower==2.0.1
