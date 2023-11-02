@@ -17,7 +17,7 @@ celery==5.3.4
 certifi==2023.7.22
 cffi
 chardet==5.2.0
-ciso8601==2.3.0
+ciso8601==2.3.1
 click==8.1.7
 cryptography
 cssselect==1.2.0
