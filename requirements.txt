@@ -11,7 +11,7 @@ asyncpg==0.29.0
 atlastk==0.13.3
 attrs==23.1.0
 bcrypt==4.0.1
-billiard==4.1.0
+billiard==4.2.0
 cachetools==5.3.2
 celery==5.3.5
 certifi==2023.11.17
