@@ -35,7 +35,7 @@ hpack==4.0.0
 hstspreload
 httpcore==1.0.2
 httptools==0.6.1
-httpx==0.25.2
+httpx==0.26.0
 httpx-oauth
 humanize==4.9.0
 hyperframe==6.0.1
