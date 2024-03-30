@@ -57,7 +57,7 @@ pluggy==1.4.0
 premailer==3.10.0
 prometheus-client==0.20.0
 py==1.11.0
-pycparser==2.21
+pycparser==2.22
 pydantic==2.6.4
 PyJWT==2.8.0
 PyMySQL
