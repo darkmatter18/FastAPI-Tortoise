@@ -71,7 +71,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-editor==1.0.4
 python-multipart==0.0.9
-python-rapidjson==1.16
+python-rapidjson==1.17
 pytz==2024.1
 redis==5.0.4
 requests==2.31.0
