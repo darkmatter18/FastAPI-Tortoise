@@ -79,7 +79,7 @@ tornado==6.4
 tortoise-orm==0.20.1
 typing-extensions==4.11.0
 urllib3
-uvicorn==0.29.0
+uvicorn==0.30.1
 uvloop==0.19.0
 vine==5.1.0
 wcwidth==0.2.13
