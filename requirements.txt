@@ -20,7 +20,7 @@ chardet==5.2.0
 ciso8601==2.3.1
 click==8.1.7
 colorama==0.4.6
-cryptography==43.0.1
+cryptography==43.0.3
 cssselect==1.2.0
 cssutils==2.11.1
 databases==0.9.0
