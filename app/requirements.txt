@@ -85,4 +85,4 @@ vine==5.1.0
 wcwidth==0.2.13
 websockets==13.0.1
 yarl
-zipp==3.20.0
+zipp==3.21.0
