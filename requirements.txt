@@ -10,7 +10,7 @@ asyncclick==8.1.7.2
 asyncpg==0.29.0
 atlastk==0.13.3
 attrs==24.2.0
-bcrypt==4.2.0
+bcrypt==4.2.1
 billiard==4.2.1
 cachetools==5.5.0
 celery==5.4.0
