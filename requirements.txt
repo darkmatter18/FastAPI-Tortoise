@@ -37,7 +37,7 @@ hstspreload==2024.8.1
 httpcore==1.0.7
 httptools==0.6.4
 httpx==0.27.2
-httpx-oauth==0.15.0
+httpx-oauth==0.16.1
 humanize==4.10.0
 hyperframe==6.0.1
 idna==3.7
