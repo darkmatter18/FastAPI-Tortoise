@@ -2,7 +2,7 @@ aerich==0.7.2
 aiohttp==3.11.11
 aiomysql==0.2.0
 aiosqlite
-amqp==5.2.0
+amqp==5.3.1
 anyio
 async-generator==1.10
 async-timeout==4.0.3
