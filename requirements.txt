@@ -6,7 +6,7 @@ amqp==5.2.0
 anyio==4.4.0
 async-generator==1.10
 async-timeout==4.0.3
-asyncclick==8.1.7.2
+asyncclick==8.1.8
 asyncpg==0.29.0
 atlastk==0.13.3
 attrs==24.2.0
